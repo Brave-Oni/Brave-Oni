@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ivan
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in ML, DL and so on
 - 🌱 I’m currently learning everything that seems interested
 
